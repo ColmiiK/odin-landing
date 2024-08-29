@@ -1,0 +1,47 @@
+body {
+    font-family: "Roboto";
+}
+
+ul {
+    list-style-type: none;
+}
+
+.intro {
+    background-color: #1F2937;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-secondary,
+.subtext,
+.placeholder,
+button {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.placeholder {
+    background-color: #444;
+}
+
+h2 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+button {
+    background-color: #3882F6;
+    border: 0px;
+    border-radius: 3px;
+    color: white;
+    padding: 5px 20px;
+}
